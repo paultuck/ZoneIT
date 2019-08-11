@@ -1,0 +1,5 @@
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingData\bin\Debug\TrainingDataBase.dacpac
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingData\bin\Debug\TrainingData.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingData\bin\Debug\TrainingData.pdb
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingData\obj\Debug\TrainingData.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingData\obj\Debug\TrainingData.pdb

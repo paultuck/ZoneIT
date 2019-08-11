@@ -1,0 +1,9 @@
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\obj\Debug\netcoreapp2.1\TrainingDataLayer.csproj.CoreCompileInputs.cache
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\obj\Debug\netcoreapp2.1\TrainingDataLayer.AssemblyInfoInputs.cache
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\obj\Debug\netcoreapp2.1\TrainingDataLayer.AssemblyInfo.cs
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\bin\Debug\netcoreapp2.1\TrainingDataLayer.deps.json
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\bin\Debug\netcoreapp2.1\TrainingDataLayer.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\bin\Debug\netcoreapp2.1\TrainingDataLayer.pdb
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\obj\Debug\netcoreapp2.1\TrainingDataLayer.csprojAssemblyReference.cache
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\obj\Debug\netcoreapp2.1\TrainingDataLayer.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingDataLayer\obj\Debug\netcoreapp2.1\TrainingDataLayer.pdb

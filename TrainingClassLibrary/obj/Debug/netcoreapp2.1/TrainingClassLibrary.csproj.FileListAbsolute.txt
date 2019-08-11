@@ -1,0 +1,12 @@
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\bin\Debug\netcoreapp2.1\TrainingClassLibrary.deps.json
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\bin\Debug\netcoreapp2.1\TrainingClassLibrary.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\bin\Debug\netcoreapp2.1\TrainingClassLibrary.pdb
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.csproj.CoreCompileInputs.cache
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.AssemblyInfoInputs.cache
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.AssemblyInfo.cs
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.pdb
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\bin\Debug\netcoreapp2.1\TrainingDataLayer.dll
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\bin\Debug\netcoreapp2.1\TrainingDataLayer.pdb
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.csprojAssemblyReference.cache
+C:\DEV\TechnicalTests\ZoneITAngular\TrainingClassLibrary\obj\Debug\netcoreapp2.1\TrainingClassLibrary.csproj.CopyComplete
